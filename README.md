@@ -3,8 +3,6 @@
 
 This repository contains three practical projects aligned to the NIQ Data Scientist (PDE) role:
 1. Retail Sales Universe Estimation
-2. Store Sample Design Optimization
-3. Retail Index Construction & Monitoring
 
 ## How to run
 1. Create a Python environment and install required packages:
